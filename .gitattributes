@@ -1,2 +1,2 @@
-*.json diff
-*.csv diff
+*.json text
+*.csv text
